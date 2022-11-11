@@ -1,2 +1,3 @@
 SELECT * FROM a;
 SELECT * FROM b;
+SELECT * FROM c;
