@@ -2,3 +2,5 @@ SELECT * FROM a;
 SELECT * FROM b;
 SELECT * FROM c;
 SELECT * FROM D;
+
+SELECT  * FROM casa;
